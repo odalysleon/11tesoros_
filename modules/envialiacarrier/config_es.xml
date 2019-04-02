@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>envialiacarrier</name>
+    <displayName><![CDATA[envialiacarrier]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Este modulo permite realizar pruebas a la empresa dinaprise y envialia]]></description>
+    <author><![CDATA[Dinaprise]]></author>
+    <tab><![CDATA[shipping_logistics]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

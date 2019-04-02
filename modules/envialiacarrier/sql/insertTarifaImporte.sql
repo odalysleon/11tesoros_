@@ -1,0 +1,36 @@
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 20, 10 FROM PREFIX_zone WHERE name = "PORTUGAL";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 50, 8 FROM PREFIX_zone WHERE name = "PORTUGAL";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 100, 6 FROM PREFIX_zone WHERE name = "PORTUGAL";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 999999, 4 FROM PREFIX_zone WHERE name = "PORTUGAL";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 20, 10 FROM PREFIX_zone WHERE name = "PALMA MALLORCA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 50, 8 FROM PREFIX_zone WHERE name = "PALMA MALLORCA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 100, 6 FROM PREFIX_zone WHERE name = "PALMA MALLORCA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 999999, 4 FROM PREFIX_zone WHERE name = "PALMA MALLORCA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 50, 12 FROM PREFIX_zone WHERE name = "L.PALMAS - TENERIFE";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 999999, 10 FROM PREFIX_zone WHERE name = "L.PALMAS - TENERIFE";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 20, 10 FROM PREFIX_zone WHERE name = "PENINSULA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 50, 8 FROM PREFIX_zone WHERE name = "PENINSULA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 100, 6 FROM PREFIX_zone WHERE name = "PENINSULA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 999999, 4 FROM PREFIX_zone WHERE name = "PENINSULA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 50, 20 FROM PREFIX_zone WHERE name = "ANDORRA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 999999, 15 FROM PREFIX_zone WHERE name = "ANDORRA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 50, 20 FROM PREFIX_zone WHERE name = "CEUTA - GIBRALTAR";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 999999, 15 FROM PREFIX_zone WHERE name = "CEUTA - GIBRALTAR";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 1, 20 FROM PREFIX_zone WHERE name = "MELILLA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E24", id_zone, 999999, 15 FROM PREFIX_zone WHERE name = "MELILLA";
+
+
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E72", id_zone, 120, 9.9 FROM PREFIX_zone WHERE name = "PORTUGAL";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E72", id_zone, 999999, 0 FROM PREFIX_zone WHERE name = "PORTUGAL";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E72", id_zone, 120, 9.9 FROM PREFIX_zone WHERE name = "PALMA MALLORCA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E72", id_zone, 999999, 0 FROM PREFIX_zone WHERE name = "PALMA MALLORCA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E72", id_zone, 120, 9.9 FROM PREFIX_zone WHERE name = "L.PALMAS - TENERIFE";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E72", id_zone, 999999, 0 FROM PREFIX_zone WHERE name = "L.PALMAS - TENERIFE";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E72", id_zone, 30, 4.8 FROM PREFIX_zone WHERE name = "PENINSULA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E72", id_zone, 999999, 0 FROM PREFIX_zone WHERE name = "PENINSULA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E72", id_zone, 120, 9.9 FROM PREFIX_zone WHERE name = "ANDORRA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E72", id_zone, 999999, 0 FROM PREFIX_zone WHERE name = "ANDORRA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E72", id_zone, 120, 9.9 FROM PREFIX_zone WHERE name = "CEUTA - GIBRALTAR";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E72", id_zone, 999999, 0 FROM PREFIX_zone WHERE name = "CEUTA - GIBRALTAR";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E72", id_zone, 120, 9.9 FROM PREFIX_zone WHERE name = "MELILLA";
+INSERT INTO `PREFIX_envialia_tarifa_importes_base` (`V_COD_TIPO_SERV`, `I_COD_ZONA`, `F_IMPORTE`, `F_PRECIO`) SELECT "E72", id_zone, 999999, 0 FROM PREFIX_zone WHERE name = "MELILLA";

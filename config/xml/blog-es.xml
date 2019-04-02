@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>¿Qué es un código QR y cómo crearlos para tu tienda PrestaShop?</title>
+    <link>https://www.prestashop.com/es/blog/crear-codigo-qr</link>
+    <description>¿Aün no conoces las ventajas que podría tener el implementar códigos QR dentro de tu web?</description>
+     <pubDate>Sun, 31 Mar 2019 17:57:38 +0200</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/crear-codigo-qr</guid>
+  </item>
+  <item>
+    <title>Mega guía del módulo &amp;quot;Actualización de Prestashop y herramienta de migración&amp;quot;</title>
+    <link>https://www.prestashop.com/es/blog/actualizacion-prestashop-herramienta-migracion</link>
+    <description>¿Quieres actualizar PrestaShop a la versión 1.7 pero tienes problemas? ¿Quieres actualizar a un PrestaShop desde cero?
+¿Quieres montar otra tienda con el mismo catálogo?</description>
+     <pubDate>Tue, 26 Mar 2019 18:42:33 +0100</pubDate>
+ <dc:creator>Antonio Torres</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/actualizacion-prestashop-herramienta-migracion</guid>
+  </item>
+  <item>
+    <title>5 Mejores plantillas para la venta de relojes online en PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/plantillas-relojes-online</link>
+    <description>¿Estás pensando en montar una relojería online y no sabes por dónde empezar?</description>
+     <pubDate>Tue, 26 Mar 2019 12:54:53 +0100</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/plantillas-relojes-online</guid>
+  </item>
+  <item>
+    <title>Guía de &amp;quot;Recordatorio de carritos abandonados - Pro&amp;quot;, ¡reduce los abandonos en tu tienda!</title>
+    <link>https://www.prestashop.com/es/blog/recordatorio-carritos-abandonados-pro</link>
+    <description></description>
+     <pubDate>Thu, 21 Mar 2019 17:05:29 +0100</pubDate>
+ <dc:creator>Antonio Torres</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/recordatorio-carritos-abandonados-pro</guid>
+  </item>
+  <item>
+    <title>¿Qué es un inventario y por qué es tan importante hacerlo en tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-un-inventario</link>
+    <description>Hacer inventario en tu tienda, tanto online como física, es algo muy común y además recomendable, por todas las ventajas que presenta y que verás en este artículo.</description>
+     <pubDate>Wed, 20 Mar 2019 08:11:37 +0100</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-un-inventario</guid>
+  </item>
+  <item>
+    <title>Curiosidades sobre el &amp;quot;código abierto&amp;quot; y los costes de instalar PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/codigo-abierto-prestashop</link>
+    <description>¿Quieres conocer cuál es el coste total de realización una instalación de PrestaShop en tu dominio web y algunas curiosidades sobre el código abierto de este CMS?</description>
+     <pubDate>Mon, 18 Mar 2019 16:40:41 +0100</pubDate>
+ <dc:creator>Antoine Thomas ES</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/codigo-abierto-prestashop</guid>
+  </item>
+  <item>
+    <title>Guía sobre &amp;quot;Chat online&amp;quot;: el módulo con el que mejorar la atención a tus clientes</title>
+    <link>https://www.prestashop.com/es/blog/modulo-chat-online</link>
+    <description>La atención al cliente durante el proceso de compra ya no es una opción si tienes un eCommerce, sino que es algo muy necesario.</description>
+     <pubDate>Sun, 17 Mar 2019 19:33:34 +0100</pubDate>
+ <dc:creator>Antonio Francisco Muñoz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulo-chat-online</guid>
+  </item>
+  <item>
+    <title>5 Plantillas para vender bebidas online con tu tienda PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/plantillas-bebidas-online</link>
+    <description>¿Tienes una idea de negocio relacionada con la venta de bebidas online pero no sabes cómo empezar?</description>
+     <pubDate>Wed, 13 Mar 2019 12:25:56 +0100</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/plantillas-bebidas-online</guid>
+  </item>
+  <item>
+    <title>¿Cómo escribir en un blog de eCommerce? ¡Crea el post perfecto!</title>
+    <link>https://www.prestashop.com/es/blog/8-trucos-para-redactar-un-post-de-primera</link>
+    <description>Todo aquél que comienza con su propia tienda online, tras subir sus productos y optimizarlos debidamente, tiende a preguntar cómo escribir en el blog de su eCommerce.</description>
+     <pubDate>Wed, 13 Mar 2019 07:30:35 +0100</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/8-trucos-para-redactar-un-post-de-primera</guid>
+  </item>
+  <item>
+    <title>Los 10 Pasos que debes seguir tras la instalación de tu tienda PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/los-diez-primeros-pasos-despues-de-instalar-su-tienda-en-linea</link>
+    <description>Si has llegado hasta este artículo, ¡felicidades! Eso significa que ya has instalado y creado tu tienda online con éxito.</description>
+     <pubDate>Mon, 11 Mar 2019 08:01:02 +0100</pubDate>
+ <dc:creator>Sarah Dib</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/los-diez-primeros-pasos-despues-de-instalar-su-tienda-en-linea</guid>
+  </item>
+  </channel>
+</rss>

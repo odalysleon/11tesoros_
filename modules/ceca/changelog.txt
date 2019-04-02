@@ -1,0 +1,124 @@
+*****************************************
+*              CHANGE LOG 
+*               CECA TPV 
+*           PRESTASHOP MODULE
+*****************************************
+v.4.2.5
+12/18/2017
+------
+- Solved issue with carriers list with carrier's modules
+
+v.4.2.4
+09/05/2017
+------
+- Disable deletion of 'notifiy' table in uninstall process
+
+v.4.2.3
+08/29/2017
+------
+- Deleted 000 validation error in refund form
+- Solved problem with refund option
+- Solved problem with config table
+- Enabled uninstall queries
+
+
+v.4.2.2
+08/10/2017
+------
+- Added compatibility with Prestashop 1.7.1.2
+
+v.4.2.1
+08/09/2017
+------
+- Changed 'merchant_id' max lenght to 10 characters 
+
+v.4.2.0
+06/12/2017
+------
+- Added currency filter for each TPV Ceca
+
+v.4.1.1
+06/06/2017
+------
+- Merged separated module versions for different Prestashop versions in one only version
+
+v.4.1.0
+05/29/2017
+------
+- Added carrier filter for each TPV Ceca
+- Added min amount and max amount for each TPV Ceca
+
+v.4.0.3
+05/29/2017
+-----
+- Solved a problem updating from versions older than 4.0.0
+- Updated notifications messages
+
+v.4.0.2
+05/18/2017
+-----
+- Encryption mode changed from SHA1 to SHA2
+
+v.4.0.1
+05/16/2017
+-----
+- Enable SSL in IPN and RefundIPN URLs
+- Enable 'PaymentOption' for Prestashop 1.7
+
+v.4.0.0
+04/19/2017
+--------
+- Added: Multi-tpv support
+- Added: Multi-shop support
+- Added: Multi-currency support
+- Added: customer group filter for each TPV CECA
+- Added: Refund and partial refund possibility
+ 
+v.3.0.2
+03/13/2017
+--------
+- Solved issue with SSL certificate and return URL
+
+v.3.0.1
+02/11/2017
+--------
+- URL for CECA test environment webservice changed
+
+v.3.0.0
+11/21/2016
+-------
+- new: Prestashop 1.7 compatibility
+
+v.2.7.1
+10/04/2016
+-------
+- fix: solved incompatibility with multishop not storing all needed configuration
+
+v.2.7.0
+08/23/2016
+-------
+- add: compatibility with 'Advanced EU Compliance' module
+
+v.2.6.3
+07/17/2015
+-------
+- fix: solved an escape error
+
+v.2.6.2
+07/07/2015
+-------
+- fix: solved an escape error
+
+v.2.6.1
+06/03/2015
+-------
+- fix: solved compatibility with 'wait for response' mode
+
+v.2.6
+-------
+- add: New configuration field 'iFrame Width'
+- add: Try again option in Error Payments cases
+
+v.2.5
+-------
+- add: the module now uses hook payment to make it compatible with other modules  

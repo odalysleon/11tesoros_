@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsadvsearch\views\templates\hook\jmsadvsearch.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="13348442cc6a27032d2b4aa28b75a5d3">
+        <source>Search</source>
+        <target>Search</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsadvsearch\views\templates\hook\jmsadvsearch.tpl:14</note>
+      </trans-unit>
+      <trans-unit id="d16ec218dba76e2ac103b8cc1ffaad63">
+        <source>All Category</source>
+        <target>All Category</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsadvsearch\views\templates\hook\jmsadvsearch.tpl:18</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsadvsearch\views\templates\front\search.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="05cf990f79d935b0ea6105855adef686">
+        <source>Return to the previous page</source>
+        <target>Return to the previous page</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsadvsearch\views\templates\front\search.tpl:30</note>
+      </trans-unit>
+      <trans-unit id="b2c56c8b57680e576c61c1b5df0d0c2d">
+        <source>No results were found for your search</source>
+        <target>No results were found for your search</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsadvsearch\views\templates\front\search.tpl:39</note>
+      </trans-unit>
+      <trans-unit id="a4bb6bf91165c149d73930f43ad4ef69">
+        <source>Please enter a search keyword</source>
+        <target>Please enter a search keyword</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsadvsearch\views\templates\front\search.tpl:41</note>
+      </trans-unit>
+      <trans-unit id="3a93aed43691aed28d2ce3a53d3c63f8">
+        <source>%d result has been found.</source>
+        <target>%d result has been found.</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsadvsearch\views\templates\front\search.tpl:45</note>
+      </trans-unit>
+      <trans-unit id="a09e4037d02313230a191007246e1694">
+        <source>%d results have been found.</source>
+        <target>%d results have been found.</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsadvsearch\views\templates\front\search.tpl:45</note>
+      </trans-unit>
+      <trans-unit id="23e6bcd09b259e6de4cd972516cb4214">
+        <source>View as</source>
+        <target>View as</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsadvsearch\views\templates\front\search.tpl:53</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

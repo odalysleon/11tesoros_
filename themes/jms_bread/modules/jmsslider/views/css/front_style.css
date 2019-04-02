@@ -1,0 +1,50 @@
+
+.jms-slider-wrapper {
+	position:relative;
+	overflow:hidden;
+	width:100%;
+	margin: 0 auto;
+}
+
+.jms-slider-wrapper .slider{
+	position:relative;
+	width:100%; 
+/*	height:400px; when responsive, comment this out */
+	margin:0 auto;
+	background:#1b1b1b;
+}
+.jms-slider-wrapper .slide {
+	overflow: hidden;
+	position: absolute;
+}
+
+
+/* Custom Css */
+.lora {
+	font-family: 'Lora', serif;
+}
+
+.lora_bold {
+	font-family: 'Lora', serif;
+	font-weight: 700;
+}
+
+.roboto_regular {
+	font-weight: 400;
+}
+
+.button-slide > a {
+	padding: 0.6vw 0.8vw;
+	font-size: 0.78vw;
+	line-height: 1;
+	height: auto;
+	border: 1px solid #e1e1e1;
+	background: transparent;
+    color: #111;
+}
+
+.button-slide > a:hover {
+	border: 1px solid #bb0101;
+	background: #bb0101;
+    color: #fff;
+}

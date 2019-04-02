@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsflashsales\views\templates\hook\categorylist.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="2eefdc5af09926e775b1d36a603df241">
+        <source>Categories list</source>
+        <target>Categories list</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsflashsales\views\templates\hook\categorylist.tpl:25</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsflashsales\views\templates\hook\list.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsflashsales\views\templates\hook\list.tpl:57</note>
+      </trans-unit>
+      <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsflashsales\views\templates\hook\list.tpl:62</note>
+      </trans-unit>
+      <trans-unit id="82b6df7f3100984b2f4244808d35d487">
+        <source>Item list</source>
+        <target>Item list</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsflashsales\views\templates\hook\list.tpl:25</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

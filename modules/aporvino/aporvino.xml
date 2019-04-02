@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order currency="EUR">
+    <id>190</id>
+    <date>2019-02-04 20:38:32</date>
+    <address>
+        <name><![CDATA[Cristina Maza Peón]]></name>
+        <telf><![CDATA[+33652533111]]></telf>
+        <email><![CDATA[rafepa@hotmail.com]]></email>
+        <address><![CDATA[240, rue des Aulnes]]></address>
+        <cp><![CDATA[01170]]></cp>
+        <city><![CDATA[Gex]]></city>
+        <province><![CDATA[]]></province>
+        <country><![CDATA[Francia]]></country>
+    </address>
+    <billing_address>
+        <name><![CDATA[Cristina Maza Peón]]></name>
+        <phone><![CDATA[+33652533111]]></phone>
+        <email><![CDATA[rafepa@hotmail.comg]]></email>
+        <address><![CDATA[240, rue des Aulnes]]></address>
+        <cp><![CDATA[01170]]></cp>
+        <city><![CDATA[Gex]]></city>
+        <province_name><![CDATA[]]></province_name>
+        <country><![CDATA[Francia]]></country>
+        <vat_number><![CDATA[]]></vat_number>
+    </billing_address>
+    <discounts>
+        <amount><![CDATA[0.000000]]></amount>
+        <amount_affiliate><![CDATA[0]]></amount_affiliate>
+    </discounts>
+    <comments><![CDATA[]]></comments>
+    <products>        
+    <product><id><![CDATA[13]]></id><name><![CDATA[DAYENÚ Vino Dulce Soleado - Vino de Misa (Caja de 8 garrafas de 2 Litros - 16 Litros)]]></name><quantity><![CDATA[3]]></quantity><price><![CDATA[51.34]]></price></product></products>
+    <shipping_price>72.930000</shipping_price>
+</order>

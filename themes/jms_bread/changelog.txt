@@ -1,0 +1,3 @@
+Jms Bread for Prestashop 1.7 version 1.0, 20017-05-03
+-------------------------
+- Release Version 1.0

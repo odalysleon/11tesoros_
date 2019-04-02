@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order currency="EUR">
+    <id>123456</id>
+    <date>2018-03-01 21:58:00</date>
+    <address>
+        <name><![CDATA[Jorge Mirat Galet]]></name>
+        <telf><![CDATA[918977006]]></telf>
+        <email><![CDATA[director@aporvino.com]]></email>
+        <address><![CDATA[Av. Felix Rodriguez de la fuente 17]]></address>
+        <cp><![CDATA[28210]]></cp>
+        <city><![CDATA[Valdemorillo]]></city>
+        <province><![CDATA[Madrid]]></province>
+        <country><![CDATA[ES]]></country>
+    </address>
+    <billing_address>
+        <name><![CDATA[APORVINO SL]]></name>
+        <phone><![CDATA[918977006]]></phone>
+        <email><![CDATA[director@aporvino.com]]></email>
+        <address><![CDATA[Av. Felix Rodriguez de la Fuente, 17]]></address>
+        <cp><![CDATA[28210]]></cp>
+        <city><![CDATA[Valdemorillo]]></city>
+        <province_name><![CDATA[Madrid]]></province_name>
+        <country><![CDATA[ES]]></country>
+        <vat_number><![CDATA[B84190065]]></vat_number>
+    </billing_address>
+    <discounts>
+        <amount><![CDATA[0]]></amount>
+        <amount_affiliate><![CDATA[0]]></amount_affiliate>
+    </discounts>
+    <comments><![CDATA[Esto es un pedido de prueba. Cancelar.]]></comments>
+    <products>
+        <product>
+            <id><![CDATA[8528_5444]]></id>
+            <name><![CDATA[BERAKHA - VINO DE MISA DULCE MOSCATEL (CAJA DE 8 GARRAFAS DE 2 LITROS - 16 LITROS)]]></name>
+
+            <quantity><![CDATA[2]]></quantity>
+            <price>62.12</price>
+        </product>
+    </products>
+    <shipping_price>46.12</shipping_price>
+</order>

@@ -1,0 +1,47 @@
+.page-header {
+	border-bottom:0;
+}
+.page-header h1{
+	text-transform:uppercase;
+	color:rgba(17,17,17,0.9);
+	font-size:26px;
+	padding:0;
+}
+.page-content.card-block {
+	border:1px solid #ebebeb;
+	box-shadow:2px 2px 11px 0 rgba(0, 0, 0, 0.1);
+	padding:30px 20px;
+}
+#my-account .links .link-item {
+	font-size:16px;
+}
+#my-account .links .link-item i {
+	font-size:26px;
+	color:#212121;
+	display:block;
+	margin-bottom:10px;
+	width:100%;
+}
+.page-my-account #content .links a span.link-item {
+	background: white none repeat scroll 0 0;
+	border:1px solid #ebebeb;
+	display: block;
+	height: 100%;
+	padding: 1rem;
+	text-align: center;
+	font-weight: 700;
+}
+.page-my-account #content .links a {
+	display: inline-block;
+	font-size: 1rem;
+	font-weight: 500;
+	margin-bottom: 1.875rem;
+	text-align: center;
+	text-transform: uppercase;
+}
+.page-my-account #content .links a:last-child {
+	margin-bottom:0;
+}
+.page-my-account #content .links a:hover{
+	color:rgba(17,17,17,0.5);
+}

@@ -1,0 +1,14 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+
+
+
+
+.product-price .unit_price{color:#a94442;}
+.product-price .unit_price_discount{color:#7a7a7a;text-decoration: #7a7a7a line-through;}
+.product-miniature .product-price-and-shipping .unit_price{color:#a94442; font-size: 13px; margin-left: 10px;}
+.product-miniature .product-price-and-shipping .unit_price_discount{color:#7a7a7a; text-decoration: #7a7a7a line-through; font-size: 12px; margin-left: 10px; margin-right: -8px}
+.no-delivery-option{padding-right:  10px !important; padding-left:   10px !important;}
+.no-delivery-option  .tax-shipping{text-align: right;}

@@ -1,0 +1,243 @@
+/**
+* 2007-2015 PrestaShop
+*
+* Jms Blog
+*
+*  @author    Joommasters <joommasters@gmail.com>
+*  @copyright 2007-2015 Joommasters
+*  @license   license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+*  @Website: http://www.joommasters.com
+*/
+
+.blog-widget .widget-title {
+  color: #111;
+	font-size: 16px;
+	line-height: 1;
+	margin-bottom: 20px;
+	text-transform: uppercase;	
+	font-weight:400;
+	border-bottom:none;
+}
+.blog-widget .comment-item {
+	margin-bottom:15px;
+}
+.blog-widget .comment-item .comment-info {
+	float:left;
+	width:calc(100% - 80px);
+	padding-left:10px;
+}
+.blog-widget .comment-item .comment-info h6{
+	color: #111;
+	font-weight: 400;
+	padding: 0;
+	margin-bottom:5px;
+}
+.blog-widget .comment-item .comment-info p {
+	font-weight:300;
+}
+.blog-widget .comment-item img{
+	width:80px;
+	float:left;
+}
+.blog-widget {
+	margin-bottom:50px;
+}
+.blog-widget .post-list .entry-thumb{
+	margin-bottom:10px;
+}
+.blog-widget .entry-title {
+	color: #111;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+	text-transform: capitalize;
+	display: block;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	width: 100%;
+}
+.blog-widget .date {
+	color:rgba(17,17,17,0.5);
+	font-size:12px;
+}
+.blog-widget .date .label {
+	font-weight:500;
+	color:rgba(17,17,17,0.6);
+	font-size:12px;
+	padding:0;
+}
+.blog-widget .date .label.view {
+	margin-left:10px;
+}
+.blog-widget .post-list li {
+	margin-bottom:25px;
+}
+.blog-widget .date li{
+	margin-bottom:0;
+}
+.blog-widget .date ul{
+	display:flex;
+}
+.blog-widget.widget-categories .widget-title {
+	margin-bottom:20px;
+}
+.widget-categories li a {
+	display: block;
+	line-height: 30px;
+	position: relative;
+	color:rgba(17,17,17,0.85);
+	font-size:15px;
+	font-weight:300;
+}
+.blog-widget .post-list li:last-child {
+	margin-bottom:0;
+}
+.page-heading {
+	border:none;
+	font-size:30px;
+	color:#111;
+}
+.post-img img {
+	width:100%;
+}
+/* Single Categoy Page */
+.cat-post-list .item {
+	border-bottom: 1px solid #ebebeb;
+	margin-bottom: 50px;
+	padding-bottom: 50px;
+}
+.cat-post-list .item:last-child {
+	border-bottom: none;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+.cat-post-list .item:last-child {
+	margin-bottom:0;
+}
+.cat-post-list .item .post-title {
+	padding:0;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-transform: capitalize;
+	white-space: nowrap;
+	width:100%;
+	display:block;
+	margin-top:20px;
+	margin-bottom:5px;
+	font-size:18px;
+	font-weight:500;
+}
+.cat-post-list .item .post-meta {
+	display:flex;
+	margin:0;
+}
+.cat-post-list .item .post-meta li {
+	margin-right:15px;
+	font-size:13px;
+	color:rgba(17,17,17,0.5);
+}
+.cat-post-list .item .post-meta li span {
+	color:rgba(17,17,17,0.6);
+	font-size:14px;
+}
+.cat-post-list .item .post-meta li:last-child {
+	margin-right:0;
+}
+.blog-readmore {
+	margin-top:10px;
+}
+.post-intro {
+	font-size:13px;
+	color:rgba(17,17,17,0.75);
+	margin:10px 0;
+}
+/* Single Post Page */
+.single-blog .title{
+	color: #111;
+	font-size: 25px;
+	font-weight: 500;
+	padding: 0;
+	text-transform: uppercase;
+}
+.single-blog .post-meta{
+	display:flex;
+	margin:10px 0;
+	margin-bottom: 30px;
+	font-weight:300;
+}
+.single-blog .post-fulltext {
+	color:rgba(17,17,17,0.85);
+	font-weight:300;	
+}
+.single-blog .post-fulltext h1, .single-blog .post-fulltext h2, .single-blog .post-fulltext h3 {
+	color:#111;
+}
+.single-blog .post-meta li {
+	margin-right:15px;
+}
+.single-blog .post-meta li:last-child {
+	margin-right:0;
+}
+.single-blog .post-thumb{
+	display: block;
+	width: 100%;
+	margin-bottom:30px;
+}
+.single-blog .social-sharing {
+	margin-top:30px;
+	margin-bottom:20px;
+}
+.post-comment {
+	padding:15px;
+}
+/* Categories Page */
+.categories-list .blog-category {
+	float:left;
+	width:50%;
+	padding:0 15px;
+	margin-bottom:50px;
+}
+.post-thumb img{
+	width:100%;
+}
+.cat-post-list .post-thumb a {
+	display: block;
+	width: 100%;
+}
+.categories-list .category-info .post-title{
+	padding:0;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-transform: uppercase;
+	white-space: nowrap;
+	width:100%;
+	display:block;
+	margin-top:20px;
+	font-size:20px;
+	font-weight:500;
+}
+.categories-list .category-info .blog-intro {
+	margin-top:20px;
+}
+.categories-list .category-info .blog-intro p {
+	margin-bottom:0;
+	color:rgba(17,17,17,0.75);
+	font-size:14px;
+	line-height:1.5;
+}
+.blog-post .post-info .blog-readmore {
+	border-radius: 25px;
+	font-size: 12px;
+	font-weight: 700;
+}
+#module-jmsblog-category .page-content.card-block {
+	padding:60px 20px;
+}
+.comment-heading h5{
+	padding:0;
+}
+.comment-heading {
+	padding:15px;
+}
+/* Tag Page */

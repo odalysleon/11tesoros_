@@ -1,0 +1,36 @@
+#registrationFrame {
+    width: 550px;
+    height: 500px;
+    border: none;
+}
+
+.btn-link{
+    border:none;
+    outline:none;
+    background:none;
+    cursor:pointer;
+    font-weight: 500;
+    padding:0;
+    text-decoration:underline;
+    font-family:inherit;
+    font-size:inherit;
+}
+
+.connectif h4 {
+    line-height: 40px;
+    display:block;
+    font-weight: 200;
+    font-size: 20px;
+    font-family: 'Open Sans',Helvetica,sans-serif;
+
+}
+
+#contactUs {
+    position: absolute;
+    bottom: -10px;
+    right: -10px;
+}
+
+#module_form_web_push input{
+    width: 370px !important;
+}

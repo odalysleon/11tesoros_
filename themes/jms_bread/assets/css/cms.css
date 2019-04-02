@@ -1,0 +1,93 @@
+.spaboutus .aboutusImage {
+  border: 1px solid #e5e5e5;
+  border-radius: 5px;
+  padding: 10px;
+}
+.spaboutus .aboutusImage img {
+	width:100%;
+}
+.page-content.page-cms {
+  text-align: justify;
+}
+.spaboutus .aboutusBottom {
+  margin-top: 60px;
+  padding: 70px 0;
+  position: relative;
+  z-index: 1;
+}
+.spaboutus{
+	overflow:hidden;
+}
+.spaboutus .aboutusBottom .aboutusHeading {
+  text-align: center;
+}
+.spaboutus .personBox {
+  margin-top: 5px;
+  text-align: center;
+}
+.spaboutus .personBox .personAvatar::after {
+  background-color: rgba(0, 0, 0, 0.3);
+  content: "";
+  height: 100%;
+  left: 0;
+  opacity: 0;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  transition: all 0.35s ease 0s;
+  visibility: hidden;
+  width: 100%;
+  z-index: 1;
+}
+.spaboutus .personBox .personAvatar {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 6px;
+  position: relative;
+}
+.spaboutus .personBox:hover .personAvatar::after {
+  opacity: 1;
+  visibility: visible;
+}
+.spaboutus .personBox .personAvatar img {
+	width:100%;
+}
+.spaboutus .personBox:hover .aboutSocial {
+  opacity: 1;
+  visibility: visible;
+}
+.aboutSocial {
+  bottom: 17px;
+  opacity: 0;
+  position: absolute;
+  right: 17px;
+  transition: all 0.35s ease 0s;
+  visibility: hidden;
+  z-index: 2;
+}
+.aboutSocial > .fa {
+  background-color: #fff;
+  border-radius: 3px;
+  color: #222;
+  display: block;
+  font-size: 14px;
+  height: 40px;
+  line-height: 40px;
+  margin-top: 6px;
+  padding: 0 15px;
+  text-align: center;
+  width: 40px;
+}
+.spaboutus .personBox .personInfo h4 {
+  color: #222;
+  font-size: 18px;
+  font-weight: 400;
+  margin: 10px 0 0;
+  padding: 5px 0;
+}
+.spaboutus .personBox .personInfo p {
+  color: #777;
+  font-size: 12px;
+  margin: 0;
+}

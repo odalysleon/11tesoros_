@@ -1,0 +1,116 @@
+#jms_ajax_search #ajax_search {
+    font-size: 12px;
+    border: none;
+    border-radius: 0;
+    color: rgba(17,17,17,0.75);
+    height: 45px;
+    padding: 0 20px;
+    background:#fff;
+    border-radius:24px;
+}
+
+#jms_ajax_search #ajax_search::-webkit-input-placeholder {
+    color: rgba(17,17,17,0.75);
+}
+
+#jms_ajax_search #ajax_search:-moz-placeholder { /* Firefox 18- */
+    color: rgba(17,17,17,0.75);
+}
+
+#jms_ajax_search #ajax_search::-moz-placeholder {  /* Firefox 19+ */
+    color: rgba(17,17,17,0.75);
+}
+
+#jms_ajax_search #ajax_search:-ms-input-placeholder {  
+    color: rgba(17,17,17,0.75);
+}
+
+#jms_ajax_search .button_search {
+    text-align: center;
+    line-height: 50px;
+    float:left;
+}
+
+#jms_ajax_search .button_search .fa {
+    color: #818181;
+    line-height: 50px;
+}
+#jms_ajax_search #search_result {
+    box-shadow: 1px 1px 4px rgba(17, 17, 17, 0.2);
+    font-size: 14px;
+    left: 0;
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    z-index: 1000;
+    max-height:550px;
+    overflow-y:auto;
+}
+
+#jms_ajax_search #search_result .result_div {
+    background: #fff;   
+    float: left;
+    position: relative;
+    padding: 10px;
+    width: 100%;
+}
+
+#jms_ajax_search #search_result .result_div .item {
+    float: left;
+    width: 100%;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+#jms_ajax_search #search_result .result_div .item:last-child {
+    border-bottom: none;
+}
+
+#search_result .result_div .item .left-img {
+    float: left;
+    margin-right: 5%;
+    width: 25%;
+}
+#jms_ajax_search #search_result .result_div .item .left-img img {
+    max-width:100%;
+}
+#jms_ajax_search #search_result .result_div .right-info {
+    float: left;
+    width: 70%;
+}
+
+#jms_ajax_search #search_result .result_div .right-info > a {
+    padding-bottom: 10px;
+    display: block;
+    width:100%;
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+
+
+#jms_ajax_search #search_result .result_div .price {
+    float: left;
+    font-size: 14px;
+    width: 100%;
+    font-weight: 300;
+}
+
+/* #jms_ajax_search #search_result .result_div .desc {
+    color: #999;
+    float: left;
+    font-size: 12px;
+    line-height: 16px;
+    width: 100%;
+} */
+
+/* #jms_ajax_search #search_result .result_div .desc p{
+    padding:0;
+    margin:0;
+} */
+
+/* #jms_ajax_search #search_result .result_div .right-info.full{
+    width:100%;
+} */

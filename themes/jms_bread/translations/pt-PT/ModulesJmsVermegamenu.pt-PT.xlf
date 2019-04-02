@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsvermegamenu\views\templates\hook\jmsvermegamenu.tpl" source-language="pt-PT" target-language="pt-PT" datatype="plaintext">
+    <body>
+      <trans-unit id="d65432dd311238609ac42e03f4d15236">
+        <source>DEPARTMENT</source>
+        <target>DEPARTMENT</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsvermegamenu\views\templates\hook\jmsvermegamenu.tpl:11</note>
+      </trans-unit>
+      <trans-unit id="d1d9213f8966941c44d8d0b68da0c830">
+        <source>CATEGORIES</source>
+        <target>CATEGORIES</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsvermegamenu\views\templates\hook\jmsvermegamenu.tpl:14</note>
+      </trans-unit>
+      <trans-unit id="2e666c3c3b1d34019ba52e76ab25a6fa">
+        <source>ALL CATEGORIES</source>
+        <target>ALL CATEGORIES</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsvermegamenu\views\templates\hook\jmsvermegamenu.tpl:20</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

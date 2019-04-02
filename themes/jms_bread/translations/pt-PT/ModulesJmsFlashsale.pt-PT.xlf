@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsflashsales\views\templates\hook\jmsflashsales.tpl" source-language="pt-PT" target-language="pt-PT" datatype="plaintext">
+    <body>
+      <trans-unit id="b64c83286ace832c0ec837ac4c1c8057">
+        <source>Add To Cart</source>
+        <target>Add To Cart</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsflashsales\views\templates\hook\jmsflashsales.tpl:138</note>
+      </trans-unit>
+      <trans-unit id="c91e4ee170226d66e90f99ba917e4c20">
+        <source>Quick view</source>
+        <target>Quick view</target>
+        <note>Context:
+File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsflashsales\views\templates\hook\jmsflashsales.tpl:214</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
