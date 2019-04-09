@@ -34,3 +34,4 @@
     {$stylesheet.content}
   </style>
 {/foreach}
+<link rel="stylesheet" href="{$urls.base_url}themes/jms_bread/assets/css/style.css" type="text/css" />
