@@ -52,11 +52,11 @@
           {/block}
         </div>
 
-        {block name='product_list_active_filters'}
-          <div id="" class="hidden-sm-down">
-            {$listing.rendered_active_filters nofilter}
-          </div>
-        {/block}
+        {*{block name='product_list_active_filters'}*}
+          {*<div id="" class="hidden-sm-down">*}
+            {*{$listing.rendered_active_filters nofilter}*}
+          {*</div>*}
+        {*{/block}*}
 
         <div id="product_list" class="product_list products-list-in-column">
           {block name='product_list'}

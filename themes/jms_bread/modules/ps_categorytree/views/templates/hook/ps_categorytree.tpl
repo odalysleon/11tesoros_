@@ -63,11 +63,11 @@
 {/function}
 
 <div class="block-categories hidden-sm-down">
-	{if $page.page_name != 'index'}
-		<div class="title-block">
-			<h3>{l s='Categories' d='Shop.Theme.CategoryTree'}</h3>
-		</div>
-	{/if}
+	{*{if $page.page_name != 'index'}*}
+		{*<div class="title-block">*}
+			{*<h3>{l s='Categories' d='Shop.Theme.CategoryTree'}</h3>*}
+		{*</div>*}
+	{*{/if}*}
   <div class="block_content">
     {categories nodes=$categories.children}
   </div>
