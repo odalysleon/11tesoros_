@@ -2,3 +2,16 @@ img.logo{
     max-width: none;
     width: 300px !important;
 }
+.change-style .header-bottom{
+    background: white !important;
+}
+.change-style .header-bottom .jms-megamenu .nav > li > a{
+    color: black !important;
+}
+
+.change-style .header-bottom .ic-search, .change-style .header-bottom .user-info > a .text{
+    color: black !important;
+}
+.change-style .header-bottom #cart_block a.cart-icon img{
+    filter: none !important;
+}
