@@ -112,7 +112,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\ps_emailsubscr
     <body>
       <trans-unit id="377e99e7404b414341a9621f7fb3f906">
         <source>Check out</source>
-        <target>Check out</target>
+        <target>Pasar por la caja</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\ps_shoppingcart\ps_shoppingcart.tpl:22</note>
       </trans-unit>
@@ -204,13 +204,13 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\cms\stores.t
     <body>
       <trans-unit id="44749712dbec183e983dcd78a7736c41">
         <source>Date</source>
-        <target>Date</target>
+        <target>Fecha</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\order-detail.tpl:188</note>
       </trans-unit>
       <trans-unit id="ec53a8c4f07baed5d8825072c89799be">
         <source>Status</source>
-        <target>Status</target>
+        <target>Estado</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\order-detail.tpl:89</note>
       </trans-unit>
@@ -220,7 +220,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\ord
     <body>
       <trans-unit id="8cf04a9734132302f96da8e113e80ce5">
         <source>Home</source>
-        <target>Home</target>
+        <target>Inicio</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_partials\my-account-links.tpl:31</note>
       </trans-unit>

@@ -10,7 +10,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\contactform\vi
       </trans-unit>
       <trans-unit id="5d4710f9a8250b13164a82c94d5b00d1">
         <source>Order reference</source>
-        <target>Order reference</target>
+        <target>Referencia del pedido</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\contactform\views\templates\widget\contactform.tpl:48</note>
       </trans-unit>
@@ -52,7 +52,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\ps_emailsubscr
     <body>
       <trans-unit id="63c193f613dd3d9d6c16da7678efda2a">
         <source>Order Reference:</source>
-        <target>Order Reference:</target>
+        <target>Referencia del pedido:</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\guest-login.tpl:41</note>
       </trans-unit>
@@ -78,7 +78,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\gue
     <body>
       <trans-unit id="3544848f820b9d94a3f3871a382cf138">
         <source>New password</source>
-        <target>New password</target>
+        <target>Nueva Contraseña</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\password-new.tpl:41</note>
       </trans-unit>
@@ -94,7 +94,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\pas
     <body>
       <trans-unit id="deb10517653c255364175796ace3553f">
         <source>Product</source>
-        <target>Product</target>
+        <target>Producto</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_partials\order-messages.tpl:53</note>
       </trans-unit>
@@ -104,7 +104,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_pa
     <body>
       <trans-unit id="1625e29c02062efe5dbc42c3efeeebc4">
         <source>-- please choose --</source>
-        <target>-- please choose --</target>
+        <target>-- seleccione --</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\_partials\form-fields.tpl:55</note>
       </trans-unit>
@@ -128,7 +128,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\_partials\fo
       </trans-unit>
       <trans-unit id="ebb061953c0454b2c8ee7b0ac615ebcd">
         <source>Optional</source>
-        <target>Optional</target>
+        <target>Opcional</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\_partials\form-fields.tpl:160</note>
       </trans-unit>

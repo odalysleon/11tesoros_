@@ -16,7 +16,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\contactform\vi
       </trans-unit>
       <trans-unit id="d57c24f3fe52d16e7169b912dd647f0d">
         <source>optional</source>
-        <target>optional</target>
+        <target>opcional</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\contactform\views\templates\widget\contactform.tpl:70</note>
       </trans-unit>

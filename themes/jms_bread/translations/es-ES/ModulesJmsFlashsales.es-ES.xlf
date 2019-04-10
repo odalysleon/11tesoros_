@@ -14,13 +14,13 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsflashsales\
     <body>
       <trans-unit id="7dce122004969d56ae2e0245cb754d35">
         <source>Edit</source>
-        <target>Edit</target>
+        <target>Modificar</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsflashsales\views\templates\hook\list.tpl:57</note>
       </trans-unit>
       <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
         <source>Delete</source>
-        <target>Delete</target>
+        <target>Borrar</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\jmsflashsales\views\templates\hook\list.tpl:62</note>
       </trans-unit>

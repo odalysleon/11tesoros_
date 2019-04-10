@@ -4,19 +4,19 @@
     <body>
       <trans-unit id="f2fc7490cbdb0db5cd6f1a4e7edb0da1">
         <source>Your account</source>
-        <target>Your account</target>
+        <target>Tu cuenta</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\my-account.tpl:28</note>
       </trans-unit>
       <trans-unit id="a82be0f551b8708bc08eb33cd9ded0cf">
         <source>Information</source>
-        <target>Information</target>
+        <target>Información</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\my-account.tpl:37</note>
       </trans-unit>
       <trans-unit id="284b47b0bb63ae2df3b29f0e691d6fcf">
         <source>Addresses</source>
-        <target>Addresses</target>
+        <target>Direcciones</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\my-account.tpl:44</note>
       </trans-unit>
@@ -28,13 +28,13 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\my-
       </trans-unit>
       <trans-unit id="cea4dedd9147586b361b90e900944690">
         <source>Order history and details</source>
-        <target>Order history and details</target>
+        <target>Historial y detalles de pedidos</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\my-account.tpl:60</note>
       </trans-unit>
       <trans-unit id="a82868319826fb092b73968e661b5b38">
         <source>Vouchers</source>
-        <target>Vouchers</target>
+        <target>Cupones</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\my-account.tpl:78</note>
       </trans-unit>
@@ -66,13 +66,13 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\ps_customersig
     <body>
       <trans-unit id="6280ed214163d6e214763ff970910cdc">
         <source>Connected as [1]%firstname% %lastname%[/1].</source>
-        <target>Connected as [1]%firstname% %lastname%[/1].</target>
+        <target>Conectado como [1]%firstname% %lastname%[/1].</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_partials\steps\personal-information.tpl:11</note>
       </trans-unit>
       <trans-unit id="8e3ecabff428ab5465ab8feb928436e0">
         <source>Not you? [1]Log out[/1]</source>
-        <target>Not you? [1]Log out[/1]</target>
+        <target>¿No eres tú? [1]Cerrar sesión[/1]</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_partials\steps\personal-information.tpl:24</note>
       </trans-unit>
@@ -98,7 +98,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\add
     <body>
       <trans-unit id="3908e1afa0ff22fbf112aff3c5ba55c1">
         <source>Your addresses</source>
-        <target>Your addresses</target>
+        <target>Tus direcciones</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\addresses.tpl:28</note>
       </trans-unit>
@@ -124,7 +124,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\aut
     <body>
       <trans-unit id="70b77fea994d1bda0a46cb5f9c9275f3">
         <source>Your vouchers</source>
-        <target>Your vouchers</target>
+        <target>Tus Cupones</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\discount.tpl:28</note>
       </trans-unit>
@@ -190,19 +190,19 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\gue
     <body>
       <trans-unit id="782c8b38bce4f2f6975ca7f33ac8189b">
         <source>Order history</source>
-        <target>Order history</target>
+        <target>Historial de pedidos</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\history.tpl:28</note>
       </trans-unit>
       <trans-unit id="28d5817f910ec3a8856126f5860fa490">
         <source>Here are the orders you've placed since your account was created.</source>
-        <target>Here are the orders you've placed since your account was created.</target>
+        <target>Estos son lo pedidos que has hecho desde que tu cuenta fue creada.</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\history.tpl:32</note>
       </trans-unit>
       <trans-unit id="3ec365dd533ddb7ef3d1c111186ce872">
         <source>Details</source>
-        <target>Details</target>
+        <target>Detalles</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\history.tpl:101</note>
       </trans-unit>
@@ -212,7 +212,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\his
     <body>
       <trans-unit id="6335a00a08fde0fbb8f6d6630cdadd92">
         <source>Your personal information</source>
-        <target>Your personal information</target>
+        <target>Tu información personal</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\identity.tpl:4</note>
       </trans-unit>
@@ -222,7 +222,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\ide
     <body>
       <trans-unit id="d1a365ea7809ae5831c6d9f86886630c">
         <source>Credit slips</source>
-        <target>Credit slips</target>
+        <target>Crédito recibido</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\order-slip.tpl:28</note>
       </trans-unit>
@@ -240,7 +240,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\ord
       </trans-unit>
       <trans-unit id="f97bb49d92cd0fe889f07e290b4792d5">
         <source>Credit slips you have received after canceled orders</source>
-        <target>Credit slips you have received after canceled orders</target>
+        <target>Crédito recivido después de cancelar pedidos</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\order-slip.tpl:32</note>
       </trans-unit>
@@ -296,13 +296,13 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\ord
     <body>
       <trans-unit id="f5d74ea75357b5e139854c14f8e24fe3">
         <source>Order details</source>
-        <target>Order details</target>
+        <target>Detalles del pedido</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\order-detail.tpl:28</note>
       </trans-unit>
       <trans-unit id="674592d247a228106f4f0d9f81c0d92c">
         <source>Order Reference %reference% - placed on %date%</source>
-        <target>Order Reference %reference% - placed on %date%</target>
+        <target>Referencia del pedido %reference% - placed on %date%</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\order-detail.tpl:38</note>
       </trans-unit>
@@ -532,13 +532,13 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_pa
       </trans-unit>
       <trans-unit id="58b3d8603dffe8484e90c0ca371921ac">
         <source>Add a message</source>
-        <target>Add a message</target>
+        <target>Añade un mensaje</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_partials\order-messages.tpl:46</note>
       </trans-unit>
       <trans-unit id="d93651d012e77dac5581b08db33195b2">
         <source>If you would like to add a comment about your order, please write it in the field below.</source>
-        <target>If you would like to add a comment about your order, please write it in the field below.</target>
+        <target>Si desea agregar un comentario sobre su pedido, escríbalo en el campo a continuación.</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_partials\order-messages.tpl:47</note>
       </trans-unit>

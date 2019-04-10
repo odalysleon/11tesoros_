@@ -142,25 +142,25 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_pa
       </trans-unit>
       <trans-unit id="694e8d1f2ee056f98ee488bdc4982d73">
         <source>Quantity</source>
-        <target>Quantity</target>
+        <target>Cantidad</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_partials\order-detail-return.tpl:198</note>
       </trans-unit>
       <trans-unit id="deb10517653c255364175796ace3553f">
         <source>Product</source>
-        <target>Product</target>
+        <target>Producto</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_partials\order-detail-return.tpl:32</note>
       </trans-unit>
       <trans-unit id="6c957f72dc8cdacc75762f2cbdcdfaf2">
         <source>Unit price</source>
-        <target>Unit price</target>
+        <target>Precio unitario</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_partials\order-detail-return.tpl:35</note>
       </trans-unit>
       <trans-unit id="0eede552438475bdfe820c13f24c9399">
         <source>Total price</source>
-        <target>Total price</target>
+        <target>Precio total</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_partials\order-detail-return.tpl:36</note>
       </trans-unit>
@@ -266,13 +266,13 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\catalog\_par
     <body>
       <trans-unit id="a3b9d2cd764b05f4be59cba8f03c01e4">
         <source>Product image</source>
-        <target>Product image</target>
+        <target>Imagen del producto</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_partials\order-detail-no-return.tpl:29</note>
       </trans-unit>
       <trans-unit id="756ef09c244b599288b6b725d1c840b0">
         <source>Product info</source>
-        <target>Product info</target>
+        <target>Producto información</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_partials\order-detail-no-return.tpl:30</note>
       </trans-unit>

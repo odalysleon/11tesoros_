@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="94966d90747b97d1f0f206c98a8b1ac3">
         <source>Send</source>
-        <target>Send</target>
+        <target>Enviar</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_partials\order-messages.tpl:76</note>
       </trans-unit>
@@ -34,7 +34,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\modules\ps_sharebutton
     <body>
       <trans-unit id="300225ee958b6350abc51805dab83c24">
         <source>Continue shopping</source>
-        <target>Continue shopping</target>
+        <target>Continuar comprando</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\cart.tpl:47</note>
       </trans-unit>
@@ -186,7 +186,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\catalog\_par
     <body>
       <trans-unit id="6ff063fbc860a79759a7369ac32cee22">
         <source>Checkout</source>
-        <target>Checkout</target>
+        <target>Ir a la caja</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_partials\cart-detailed-actions.tpl:35</note>
       </trans-unit>
@@ -196,13 +196,13 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_pa
     <body>
       <trans-unit id="8cf04a9734132302f96da8e113e80ce5">
         <source>Home</source>
-        <target>Home</target>
+        <target>Inicio</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\order-confirmation.tpl:80</note>
       </trans-unit>
       <trans-unit id="992e5ea5a58a03dc41f90cf3ff42a3d4">
         <source>Account Page</source>
-        <target>Account Page</target>
+        <target>Mi Cuenta</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\order-confirmation.tpl:83</note>
       </trans-unit>
@@ -212,7 +212,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\ord
     <body>
       <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
         <source>Save</source>
-        <target>Save</target>
+        <target>Guardar</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_partials\customer-form.tpl:42</note>
       </trans-unit>
@@ -232,7 +232,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_pa
     <body>
       <trans-unit id="a0bfb8e59e6c13fc8d990781f77694fe">
         <source>Continue</source>
-        <target>Continue</target>
+        <target>Continuar</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_partials\steps\shipping.tpl:110</note>
       </trans-unit>
@@ -242,13 +242,13 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_pa
     <body>
       <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
         <source>Delete</source>
-        <target>Delete</target>
+        <target>Borrar</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_partials\block-address.tpl:33</note>
       </trans-unit>
       <trans-unit id="06933067aafd48425d67bcb01bba5cb6">
         <source>Update</source>
-        <target>Update</target>
+        <target>Actualizar</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_partials\block-address.tpl:37</note>
       </trans-unit>
@@ -258,7 +258,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_pa
     <body>
       <trans-unit id="7dce122004969d56ae2e0245cb754d35">
         <source>Edit</source>
-        <target>Edit</target>
+        <target>Modificar</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_partials\address-selector-block.tpl:59</note>
       </trans-unit>
@@ -268,7 +268,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_pa
     <body>
       <trans-unit id="acb0f29bb6d39aaabc7d2d62aaa4a57d">
         <source>show details</source>
-        <target>show details</target>
+        <target>Mostrar detalles</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_partials\cart-summary.tpl:35</note>
       </trans-unit>
@@ -314,7 +314,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_pa
     <body>
       <trans-unit id="b6d4223e60986fa4c9af77ee5f7149c5">
         <source>Sign in</source>
-        <target>Sign in</target>
+        <target>Iniciar sesión</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_partials\login-form.tpl:26</note>
       </trans-unit>
@@ -324,7 +324,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\_pa
     <body>
       <trans-unit id="5144a9adfce5a7d475bb8194a4a310a5">
         <source>Create new address</source>
-        <target>Create new address</target>
+        <target>Crear una nueva dirección</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\addresses.tpl:43</note>
       </trans-unit>
@@ -334,7 +334,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\add
     <body>
       <trans-unit id="332c80b1838dc515f5031e09da3b7f3f">
         <source>Reorder</source>
-        <target>Reorder</target>
+        <target>Comprar de nuevo</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\order-detail.tpl:47</note>
       </trans-unit>
@@ -396,7 +396,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\customer\pas
     <body>
       <trans-unit id="498f79c4c5bbde77f1bceb6c86fd0f6d">
         <source>Show</source>
-        <target>Show</target>
+        <target>Mostrar</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\_partials\form-fields.tpl:132</note>
       </trans-unit>
