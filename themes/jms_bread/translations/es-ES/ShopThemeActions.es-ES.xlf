@@ -294,7 +294,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_pa
     <body>
       <trans-unit id="0229555220567b35d8c36d9d926e6d65">
         <source>Add New Address</source>
-        <target>Add New Address</target>
+        <target>Añadir nueva dirección</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_partials\steps\addresses.tpl:108</note>
       </trans-unit>

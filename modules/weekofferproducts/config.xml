@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>weekofferproducts</name>
+    <displayName><![CDATA[Ofertas de la semana]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Despliega las ofertas de la semana en la p&aacute;gina de Inicio]]></description>
+    <author><![CDATA[alcidesrh]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

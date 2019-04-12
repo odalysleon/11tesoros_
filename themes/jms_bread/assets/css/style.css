@@ -15,3 +15,10 @@ img.logo{
 .change-style .header-bottom #cart_block a.cart-icon img{
     filter: none !important;
 }
+.home-popular-products{
+    background-size: cover;
+}
+.featured-products h3{
+    color: white;
+    font-weight: bold;
+}
