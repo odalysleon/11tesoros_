@@ -66,7 +66,7 @@
                           <span class="carrier-delay">{$carrier.delay}</span>
                         </div>
                         <div class="col-sm-3 col-xs-12">
-                          <span class="carrier-price">{$carrier.price}</span>
+                          <span class="carrier-price">{$carrier.price nofilter}</span>
                         </div>
                       </div>
                     </label>
