@@ -2,7 +2,7 @@ img.logo{
     max-width: none;
     width: 300px !important;
 }
-.change-style .header-bottom{
+#index .change-style .header-bottom{
     background: white !important;
 }
 .change-style .header-bottom .jms-megamenu .nav > li > a{
