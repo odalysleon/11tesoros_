@@ -22,3 +22,6 @@ img.logo{
     color: white;
     font-weight: bold;
 }
+#index .header-bottom{
+    background: none !important;
+}
