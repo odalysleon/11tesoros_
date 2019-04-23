@@ -23,5 +23,5 @@ img.logo{
     font-weight: bold;
 }
 #index .header-bottom{
-    background: none !important;
+    background: rgba(17, 17, 17, 0.8) none repeat scroll 0 0 !important;
 }
