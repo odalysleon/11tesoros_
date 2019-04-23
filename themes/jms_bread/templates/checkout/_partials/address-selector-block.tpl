@@ -38,7 +38,7 @@
           >
           <span></span>
         </span>
-        <span class="address-alias h4">{$address.alias}</span>
+        <span class="address-alias h4">{l s='My Address' d='Shop.Theme.Checkout'}</span>
         <div class="address">{$address.formatted nofilter}</div>
       </label>
     </header>

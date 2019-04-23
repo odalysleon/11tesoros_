@@ -128,6 +128,16 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_pa
       </trans-unit>
     </body>
   </file>
+  <file original="D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_partials\address-selector-block.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+      <body>
+        <trans-unit id="5c74d926c4b89517ad64133990d04321">
+          <source>My Address</source>
+          <target>Mi Dirección</target>
+          <note>Context:
+  File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_partials\address-selector-block.tpl:17</note>
+        </trans-unit>
+      </body>
+    </file>
   <file original="D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_partials\cart-detailed-product-line.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
     <body>
       <trans-unit id="75edf643d9f66f0f905722da73da0a94">
@@ -274,7 +284,7 @@ File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_pa
       </trans-unit>
       <trans-unit id="313d7cbfa2b3c25f09d69ad7e40974a7">
         <source>Billing address differs from shipping address</source>
-        <target>Billing address differs from shipping address</target>
+        <target>La dirección de facturación difiere de la dirección de entrega</target>
         <note>Context:
 File: D:\wamp\www\prestashop17\jms_bread\themes\jms_bread\templates\checkout\_partials\steps\addresses.tpl:76</note>
       </trans-unit>

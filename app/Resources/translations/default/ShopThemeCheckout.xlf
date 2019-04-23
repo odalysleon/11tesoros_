@@ -112,7 +112,7 @@ File: src/Adapter/Cart/CartPresenter.php:438</note>
     <body>
       <trans-unit id="0bf3928d84fde940f6feafac75062280">
         <source>My Address</source>
-        <target>My Address</target>
+        <target>Mi dirección</target>
         <note>Context:
 File: classes/form/CustomerAddressForm.php:155</note>
       </trans-unit>
