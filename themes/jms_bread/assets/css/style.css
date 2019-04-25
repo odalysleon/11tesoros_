@@ -28,3 +28,10 @@ img.logo{
 .jms-megamenu .mega-nav li > a {
     text-transform: none !important;
 }
+#nav-sidebar {
+    direction: rtl;
+}
+
+#nav-sidebar ul.menu {
+    direction:ltr;
+}
