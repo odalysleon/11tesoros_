@@ -547,6 +547,7 @@ class JmsMegaMenu extends Module
                     break;
                 case 'category':
                     $category = new Category((int)$item['value'], (int)$id_lang);
+                    $item['name'] = $category->name;
                     $item['link'] = $category->getLink();
 
                     break;
