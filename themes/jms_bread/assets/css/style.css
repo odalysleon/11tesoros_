@@ -25,3 +25,6 @@ img.logo{
 #index .header-bottom{
     background: rgba(17, 17, 17, 0.8) none repeat scroll 0 0 !important;
 }
+.jms-megamenu .mega-nav li > a {
+    text-transform: none !important;
+}
