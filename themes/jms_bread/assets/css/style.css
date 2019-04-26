@@ -30,16 +30,19 @@ img.logo{
 }
 #nav-sidebar {
     direction: rtl;
+    scrollbar-width: thin;
 }
 
 #nav-sidebar ul.menu {
     direction:ltr;
+    scrollbar-width: thin;
 }
 
 .product-line-grid .product-line-actions {
     margin-top: 70px;
 }
-@media (max-width: 480px)
-.product-line-grid .product-line-actions {
-    margin-top: 15px;
+@media (max-width: 480px) {
+    .product-line-grid .product-line-actions {
+        margin-top: 15px;
+    }
 }

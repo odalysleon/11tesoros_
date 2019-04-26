@@ -52,16 +52,12 @@
                         <td>+34-949 874 055/ +34-949 874 074</td>
                     </tr>
                     <tr>
-                        {*<th>{l s='Whatsapp/Viper' d='Shop.Pdf' pdf='true'}:</th>*}
-                        <td>+34-665 634 853/ +34-665 634 989</td>
-                    </tr>
-                    <tr>
                         {*<th>{l s='Email1' d='Shop.Pdf' pdf='true'}:</th>*}
-                        <td><a style="color: #00A4E7;text-decoration: underline">tienda@pickeo.net</a></td>
+                        <td><a style="color: #00A4E7;text-decoration: underline">tienda@11tesorosibericos.com</a></td>
                     </tr>
                     <tr>
                         {*<th>{l s='Email2' d='Shop.Pdf' pdf='true'}:</th>*}
-                        <td><a style="color: #00A4E7;text-decoration: underline">www.pickeo.net</a></td>
+                        <td><a style="color: #00A4E7;text-decoration: underline">www.11tesorosibericos.com</a></td>
                     </tr>
                     </tbody>
                 </table>
