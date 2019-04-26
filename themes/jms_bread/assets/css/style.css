@@ -35,3 +35,11 @@ img.logo{
 #nav-sidebar ul.menu {
     direction:ltr;
 }
+
+.product-line-grid .product-line-actions {
+    margin-top: 70px;
+}
+@media (max-width: 480px)
+.product-line-grid .product-line-actions {
+    margin-top: 15px;
+}
