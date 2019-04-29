@@ -46,3 +46,19 @@ img.logo{
         margin-top: 15px;
     }
 }
+
+@media (min-width:576px){.hidden-sm-up{display:none!important}}@media (max-width:767px){.hidden-sm-down{display:none!important}}@media (min-width:768px){.hidden-md-up{display:none!important}}@media (max-width:991px){.hidden-md-down{display:none!important}}@media (min-width:992px){.hidden-lg-up{display:none!important}}@media (max-width:1199px){.hidden-lg-down{display:none!important}}@media (min-width:1200px){.hidden-xl-up{display:none!important}}.hidden-xl-down,.visible-print-block{display:none!important}
+
+.footer-container .links .collapse {
+    display: inherit !important;
+    visibility: inherit !important;
+}
+.footer-container {
+    margin-top: 1.25rem;
+    padding-top: 1.25rem;
+    overflow: hidden;
+    box-shadow: 2px 2px 11px 0 rgba(0,0,0,.3);
+}
+#footer .addon-title{
+    margin-top: 30px;
+}
