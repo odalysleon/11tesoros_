@@ -69,8 +69,8 @@ global_settings:
         - jmspagebuilder
       displayHome:
         - jmspagebuilder      
-      displayFooter:
-        - jmspagebuilder
+#      displayFooter:
+#        - jmspagebuilder
       displayLeftColumn:
         - ps_categorytree
         - ps_facetedsearch
