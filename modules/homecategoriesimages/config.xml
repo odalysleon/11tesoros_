@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
-    <name>weekofferproducts</name>
+    <name>homecategoriesimages</name>
     <displayName><![CDATA[Ofertas de la semana]]></displayName>
     <version><![CDATA[1.0.0]]></version>
-    <description><![CDATA[Despliega las ofertas de la semana en la p&aacute;gina de Inicio]]></description>
+    <description><![CDATA[Despliega las imagenes de categorias en la pagina de inicio]]></description>
     <author><![CDATA[alcidesrh]]></author>
     <tab><![CDATA[]]></tab>
     <is_configurable>1</is_configurable>

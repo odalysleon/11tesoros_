@@ -69,16 +69,13 @@ class Weekofferproducts extends Module implements WidgetInterface
 
         Configuration::updateValue('WEEK_FEATURED_NBR', 8);
         Configuration::updateValue('WEEK_FEATURED_CAT', (int) Context::getContext()->shop->getCategory());
-        Configuration::updateValue('WEEK_FEATURED_RANDOMIZE', false);
+        Configuration::updateValue('WEEK_FEATURED_RANDOMIZE', true);
 
         return parent::install()
             && $this->registerHook('addproduct')
             && $this->registerHook('updateproduct')
             && $this->registerHook('deleteproduct')
             && $this->registerHook('categoryUpdate')
-//            && $this->registerHook('displayHome')
-//            && $this->registerHook('displayOrderConfirmation2')
-//            && $this->registerHook('displayCrossSellingShoppingCart')
             && $this->registerHook('actionAdminGroupsControllerSaveAfter')
         ;
     }

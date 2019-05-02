@@ -62,3 +62,13 @@ img.logo{
 #footer .addon-title{
     margin-top: 30px;
 }
+.home-categories-images{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    max-width: 100%;
+}
+.home-category-name{
+    text-align: center; text-transform: uppercase; padding: 10px; font-weight: bold;
+}
+.mb-20{
+    margin-bottom: 20px;
+}

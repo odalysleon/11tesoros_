@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>homecategoriesimages</name>
+    <displayName><![CDATA[Despliega las imagenes de categorias en la pagina de inicio]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Despliega las imagenes de categorias en la pagina de inicio]]></description>
+    <author><![CDATA[alcidesrh]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
