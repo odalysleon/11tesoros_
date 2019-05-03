@@ -3,3 +3,12 @@
     overflow-y: auto;
     overflow-x: visible;
 }
+#nav-sidebar {
+    direction: rtl;
+    scrollbar-width: thin;
+}
+
+#nav-sidebar ul.menu {
+    direction:ltr;
+    scrollbar-width: thin;
+}

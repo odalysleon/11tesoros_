@@ -12906,3 +12906,16 @@ span.twitter-typeahead {
   width: 100% !important; }
   span.twitter-typeahead input.tt-input {
     width: 100% !important; }
+#nav-sidebar, .nav-sidebar {
+    overflow-y: auto;
+    overflow-x: visible;
+}
+#nav-sidebar {
+    direction: rtl;
+    scrollbar-width: thin;
+}
+
+#nav-sidebar ul.menu {
+    direction:ltr;
+    scrollbar-width: thin;
+}

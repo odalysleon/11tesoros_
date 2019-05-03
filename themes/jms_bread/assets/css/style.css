@@ -28,15 +28,6 @@ img.logo{
 .jms-megamenu .mega-nav li > a {
     text-transform: none !important;
 }
-#nav-sidebar {
-    direction: rtl;
-    scrollbar-width: thin;
-}
-
-#nav-sidebar ul.menu {
-    direction:ltr;
-    scrollbar-width: thin;
-}
 
 .product-line-grid .product-line-actions {
     margin-top: 70px;
