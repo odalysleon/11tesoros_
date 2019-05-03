@@ -72,3 +72,6 @@ img.logo{
 .mb-20{
     margin-bottom: 20px;
 }
+.propular-carousel .owl-stage{
+    margin: auto;
+}

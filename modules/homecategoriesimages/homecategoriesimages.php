@@ -98,9 +98,11 @@ class Homecategoriesimages extends Module implements WidgetInterface
             unset($categories[count($categories) - 1]);
             $categories2 = $categories;
             foreach ($categories2 as $category){
-                $categories = array_merge($categories, Category::getChildren((int)$category['id_category'], (int)$this->context->language->id, true, (int)$this->context->shop->id));
+                $childrens = Category::getChildren((int)$category['id_category'], (int)$this->context->language->id, true, (int)$this->context->shop->id);
+                foreach ($childrens as $children){
+                    if($children['id_image2'])$categories[] = $children;
+                }
             }
-
             if (empty($categories)) {
                 return false;
             }
