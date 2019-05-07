@@ -45,10 +45,10 @@ img.logo{
     visibility: inherit !important;
 }
 .footer-container {
-    margin-top: 1.25rem;
+    margin-top: 2.25rem;
     padding-top: 1.25rem;
     overflow: hidden;
-    box-shadow: 2px 2px 11px 0 rgba(0,0,0,.3);
+    /*box-shadow: 2px 2px 11px 0 rgba(0,0,0,.3);*/
 }
 #footer .addon-title{
     margin-top: 30px;

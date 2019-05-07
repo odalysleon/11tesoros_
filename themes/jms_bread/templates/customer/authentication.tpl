@@ -39,7 +39,7 @@
       {/block}
       <div class="no-account">
         <a href="{$urls.pages.register}" data-link-action="display-register-form">
-          {l s='No account? Create one here' d='Shop.Theme.CustomerAccount'}
+          {l s='No account? Create one here' d='Shop.Theme.Customeraccount'}
         </a>
       </div>
     {/block}

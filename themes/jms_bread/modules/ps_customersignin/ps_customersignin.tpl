@@ -26,15 +26,15 @@
 <!-- Block user information module HEADER -->
 <div id="_desktop_user_info" class="btn-group compact-hidden user-info">
 			{if $logged}
-				<a class="btn-xs dropdown-toggle login account" data-toggle="dropdown" href="{$link->getPageLink('my-account', true)}" title="{l s='View my customer account' d='Shop.Theme.CustomerAccount'}" rel="nofollow">
+				<a class="btn-xs dropdown-toggle login account" data-toggle="dropdown" href="{$link->getPageLink('my-account', true)}" title="{l s='View my customer account' d='Shop.Theme.Customeraccount'}" rel="nofollow">
 						<span class="text">
 							<i class="icon-head"></i>
 						</span>
 				</a>
 				<ul role="menu" class="dropdown-menu">
 					<li>
-						<a class="account" href="{$my_account_url}" title="{l s='View my customer account' d='Shop.Theme.CustomerAccount'}" rel="nofollow"> 
-							{l s='My account' d='Shop.Theme.CustomerAccount'}
+						<a class="account" href="{$my_account_url}" title="{l s='View my customer account' d='Shop.Theme.Customeraccount'}" rel="nofollow">
+							{l s='My account' d='Shop.Theme.Customeraccount'}
 						</a>
 					</li>
 					<li>
@@ -44,7 +44,7 @@
 					</li>
 				</ul>
 			{else}
-				<a href="{$my_account_url}" title="{l s='Log in to your customer account' d='Shop.Theme.CustomerAccount'}" rel="nofollow">
+				<a href="{$my_account_url}" title="{l s='Log in to your customer account' d='Shop.Theme.Customeraccount'}" rel="nofollow">
 					<span class="text">
 						<i class="icon-head"></i>
 					</span>
