@@ -79,12 +79,18 @@
             </div>
           {/block}
           <div class="order-options">
+              <div id="delivery">
+                  <label for="delivery_message">{l s='If you would like to add a comment about your order, please write it in the field below.' d='Shop.Theme.Checkout'}</label>
+                  <textarea rows="2" cols="120" id="delivery_message" name="delivery_message">{$delivery_message}</textarea>
+              </div>
+
             {if $recyclablePackAllowed}
               <label>
                 <input type="checkbox" name="recyclable" value="1" {if $recyclable} checked {/if}>
                 <span>{l s='I would like to receive my order in recycled packaging.' d='Shop.Theme.Checkout'}</span>
               </label>
             {/if}
+
             {if $gift.allowed}
               <span class="custom-checkbox">
                 <input
@@ -106,6 +112,16 @@
             {/if}
           </div>
         </div>
+          <div class="delivery-option no-delivery-option ">
+              {if $count_diferent_types_products > 1}
+                  {foreach from=$cart.subtotals item="subtotal"}
+                      {if $subtotal && $subtotal.type !== 'tax' && $subtotal.type=='shipping' }
+                          <p class="tax-shipping">{$subtotal.value} {l s='tax_incl' d='Shop.Theme.Checkout'}</p>
+                      {/if}
+                  {/foreach}
+              {/if}
+              {l s='Message for more one delivery options' sprintf=['[break]' => '<br/>'] d='Shop.Theme.Checkout'}
+          </div>
         <button type="submit" class="continue btn btn-primary pull-xs-right" name="confirmDeliveryOption" value="1">
           {l s='Continue' d='Shop.Theme.Actions'}
         </button>
