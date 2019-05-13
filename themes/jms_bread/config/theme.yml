@@ -61,7 +61,7 @@ global_settings:
     - jmstestimonials
     - jmsblog
     - jmsblogwidget
-    - jmscustomhtmlleft
+#    - jmscustomhtmlleft
     - jmspagebuilder
   hooks:
    modules_to_hook:
@@ -74,7 +74,7 @@ global_settings:
       displayLeftColumn:
         - ps_categorytree
         - ps_facetedsearch
-        - jmscustomhtmlleft
+#        - jmscustomhtmlleft
   image_types:
     cart_default:
       width: 95

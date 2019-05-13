@@ -112,14 +112,14 @@
 							    {/block}
 							</div>
 						</li>
-						<li>
-							{if $product.additional_shipping_cost > 0}
-								<label>{l s='Shipping tax: '}</label>
-									<span class="shipping_cost">{$product.additional_shipping_cost}</span>
-							{else}
-								<label>{l s='Shipping tax:'}</label><span class="shipping_cost">{l s=' Free'}</span>
-							{/if}
-						</li>
+						{*<li>*}
+							{*{if $product.additional_shipping_cost > 0}*}
+								{*<label>{l s='Shipping tax: '}</label>*}
+									{*<span class="shipping_cost">{$product.additional_shipping_cost}</span>*}
+							{*{else}*}
+								{*<label>{l s='Shipping tax:'}</label><span class="shipping_cost">{l s=' Free'}</span>*}
+							{*{/if}*}
+						{*</li>*}
 					</ul>
 					<!-- Out of stock hook -->
 					<div id="oosHook" style="display: none;">
@@ -171,7 +171,8 @@
 					{/block}
 				{/block}
 				</div>
-				<div id="product-description-short-{$product.id}" class="product-desc"itemprop="description">{$product.description_short|strip_tags|truncate:150:"..."}</div>
+				{*<div id="product-description-short-{$product.id}" class="product-desc"itemprop="description">{$product.description_short|strip_tags|truncate:150:"..."}</div>*}
+                <div id="product-description-short-{$product.id}" class="product-desc"itemprop="description">{$product.description_short|strip_tags}</div>
 				{hook h='displayReassurance'}
 			</div>
 		</div>
