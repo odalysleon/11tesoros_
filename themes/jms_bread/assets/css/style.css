@@ -66,3 +66,6 @@ img.logo{
 .propular-carousel .owl-stage{
     margin: auto;
 }
+.row.propular-carousel.owl-carousel.owl-theme.owl-responsive-1366.owl-loaded{
+    margin-left: 10px;
+}
