@@ -48,12 +48,12 @@
 		  <div class="other-info">
 					<ul class="feature-list">
 						{foreach from=$product.features item=feature}
-						  <li class="value">{$feature.value}</li>
+                            <li class="value"><strong>{$feature.name}:</strong> {$feature.value}</li>
 						{/foreach}
 					</ul>
 					<!-- Out of stock hook -->
 					<div id="oosHook" style="display: none;">
-						
+
 					</div>
 				</div>
           {block name='product_buy'}
